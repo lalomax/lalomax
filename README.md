@@ -1,3 +1,8 @@
+<div id="header" align="center">
+    <img src="https://avatars.githubusercontent.com/u/95863162?v=4" width="25%">
+    <h1 align="center">Hi 👌, I'm Orlando</h1>
+    <h3>I like to coding, now i'm learning JavaScript and looking to collaborate on projects</h3>
+</div>
 
 - 👋 Hi, I’m @lalomax
 - 👀 I’m interested in coding
