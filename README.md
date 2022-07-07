@@ -1,7 +1,14 @@
-<div id="header" align="center" style="border: 1px solid dodgerblue" >
+<div id="header" align="center">
     <img src="https://avatars.githubusercontent.com/u/95863162?v=4" width="50%">
     <h1 align="center">Hi 👌, I'm Orlando</h1>
     <h3>I like to coding, now i'm learning JavaScript and looking to collaborate on projects</h3>
+
+</div>
+
+<div id="badges" align="center">
+    <a href="https://twitter.com/OrlandoFloresH">
+        <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/OrlandoFloresH?logo=twitter&style=for-the-badge">
+    </a>
 </div>
 
 - 👋 Hi, I’m @lalomax
