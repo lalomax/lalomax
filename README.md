@@ -1,4 +1,4 @@
-<div id="header" align="center" >
+<div id="header" align="center" style="border: 1px solid dodgerblue" >
     <img src="https://avatars.githubusercontent.com/u/95863162?v=4" width="50%">
     <h1 align="center">Hi 👌, I'm Orlando</h1>
     <h3>I like to coding, now i'm learning JavaScript and looking to collaborate on projects</h3>
