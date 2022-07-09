@@ -9,7 +9,7 @@
     <a href="https://twitter.com/OrlandoFloresH">
         <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/OrlandoFloresH?logo=twitter&style=for-the-badge">
     </a>
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/lalomax?style=for-the-badge">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/lalomax?logo=github&style=for-the-badge">
 </div>
 
 <div id="flagcounter" align="center">
