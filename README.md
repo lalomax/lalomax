@@ -22,7 +22,6 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning API's
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me lalomax365@gmail.com
 - 📞 My phone number 591 77595073
 
 ## ✍ Languages and Tools:
