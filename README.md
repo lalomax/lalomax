@@ -20,7 +20,7 @@
 
 - 👋 Hi, I’m @lalomax
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning API's
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on projects
 - 📞 My phone number 591 77595073
 
