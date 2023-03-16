@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <a href="https://imgur.com/J7tihmu"><img src="https://i.imgur.com/J7tihmu.gif" title="source: imgur.com" /></a>
     <h1 align="center">Hi 👌, I'm Orlando</h1>
-    <h3>I like to coding, now i'm learning React and looking to collaborate on projects</h3>
+    <h3>I like to coding, now i'm learning React Native and looking to collaborate on projects</h3>
 </div>
 
 <div id="badges" align="center">
@@ -20,7 +20,7 @@
 
 - 👋 Hi, I’m @lalomax
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on projects
 - 📞 My phone number 591 77595073
 
