@@ -1,5 +1,4 @@
 <div id="header" align="center">
-    <a href="https://imgur.com/J7tihmu"><img src="https://i.imgur.com/J7tihmu.gif" title="source: imgur.com" /></a>
     <h1 align="center">Hi 👌, I'm Orlando</h1>
     <h3>I like to coding, now i'm learning React Native and looking to collaborate on projects</h3>
 </div>
