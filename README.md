@@ -10,7 +10,7 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/lalomax?logo=github&style=for-the-badge">
     <a href="https://www.reddit.com/user/lalomax">
         <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/lalomax?logo=reddit&style=for-the-badge">
-        </a>
+    </a>
 </div>
 
 - 👋 Hi, I’m @lalomax
@@ -27,6 +27,8 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+
 
 ## 🖥️ Workspace Setup
 
