@@ -3,15 +3,7 @@
     <h3>I like to coding, now i'm learning React Native and looking to collaborate on projects</h3>
 </div>
 
-<div id="badges" align="center">
-    <a href="https://twitter.com/OrlandoFloresH">
-        <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/OrlandoFloresH?logo=twitter&style=for-the-badge">
-    </a>
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/lalomax?logo=github&style=for-the-badge">
-    <a href="https://www.reddit.com/user/lalomax">
-        <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/lalomax?logo=reddit&style=for-the-badge">
-    </a>
-</div>
+
 
 - 👋 Hi, I’m @lalomax
 - 👀 I’m interested in coding
