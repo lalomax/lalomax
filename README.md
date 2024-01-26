@@ -1,7 +1,12 @@
 <div id="header" align="center">
     <h1 align="center">Hi 👌, I'm Orlando</h1>
     <h3>I like to coding, now i'm learning React Native and looking to collaborate on projects</h3>
+    
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d0da0e67-da22-4afc-92a6-2b3573184cbe/deploy-status)](https://app.netlify.com/sites/orlandocv/deploys)
+
+
 </div>
+
 
 
 
