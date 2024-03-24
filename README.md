@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **react native projects**
 
-- 👨‍💻 All of my projects are available at [https://orlandosportfolio.netlify.app/](https://orlandosportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [My portfolio](https://lalomaxportfolio.netlify.app/)
 
 - 📝 I regularly write articles on [https://www.xpanki.com/publicaciones/manuales](https://www.xpanki.com/publicaciones/manuales)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **lalomax365@gmail.com**
 
-- 📄 Know about my experiences [https://orlandocv.netlify.app/](https://orlandocv.netlify.app/)
+- 📄 Know about my experiences [My resume](https://lalomaxportfolio.netlify.app/curriculum)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
