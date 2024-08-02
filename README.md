@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/lalomax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/lalomax" height="30" width="40" /></a>
+<a href="https://codepen.io/lalomax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/lalomax" height="30" width="40" /></a>
 <a href="https://twitter.com/orlandofloresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="orlandofloresh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/orlando-flores-54ab33168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/orlando-flores-54ab33168" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/orlandofloreshuanca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/orlandofloreshuanca" height="30" width="40" /></a>
