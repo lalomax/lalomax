@@ -6,9 +6,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lalomax&theme=onedark" alt="lalomax" /></a> </p>
 
 
-- 🌱 I’m currently learning **Angular**
-
-- 🤝 I’m looking for help with **react native projects**
+- 🌱 I’m currently learning **NodeJs**
 
 - 👨‍💻 All of my projects are available at [My portfolio](https://lalomaxportfolio.netlify.app/)
 
