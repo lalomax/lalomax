@@ -8,13 +8,9 @@
 
 - 🌱 I’m currently learning **NodeJs**
 
-- 👨‍💻 Some group my projects are available at [My portfolio](https://lalomaxportfolio.netlify.app/)
+- 👨‍💻 Some group projects are available at [my portfolio](https://lalomaxportfolio.netlify.app/)
 
-- 📝 I regularly write articles on [https://www.xpanki.com/publicaciones/manuales](https://www.xpanki.com/publicaciones/manuales)
-
-- 💬 Ask me about **react**
-
-- 📫 How to reach me **lalomax365@gmail.com**
+- 📝 I regularly write articles on [xpanki](https://www.xpanki.com/publicaciones/manuales)
 
 - 📄 Know about my experiences [My resume](https://lalomaxportfolio.netlify.app/curriculum)
 
