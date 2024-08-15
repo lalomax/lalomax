@@ -6,7 +6,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lalomax&theme=onedark" alt="lalomax" /></a> </p>
 
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning [**Fullstack program part 4**](https://fullstackopen.com/es/part4)
 
 - 👨‍💻 Some group projects are available at [my portfolio](https://lalomaxportfolio.netlify.app/)
 
