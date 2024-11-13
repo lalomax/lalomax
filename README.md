@@ -7,7 +7,7 @@
 
 
 * 🌱 I’m currently learning [Fullstack program part 4](https://fullstackopen.com/es/part4)
-* 👨‍💻 Some group projects are available at [my portfolio](https://lalomaxportfolio.netlify.app/)
+* 👨‍💻 Some group projects are available at [my portfolio](https://lalomax.netlify.app/)
 * 📝 I regularly write articles on [xpanki](https://sites.google.com/view/xpankix/) 
 * 📄 Know about my experiences [My resume](https://lalomaxportfolio.netlify.app/curriculum) 
 * 📸 Free anki [flashcards](https://ankiweb.net/shared/by-author/478793435)
