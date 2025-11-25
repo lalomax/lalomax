@@ -6,7 +6,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lalomax&theme=onedark" alt="lalomax" /></a> </p>
 
 
-* 🌱 I’m currently learning [Fullstack program part 4](https://fullstackopen.com/es/part4)
+* 🌱 I’m currently learning [Fullstack program part 4](https://fullstackopen.com/es/part4) and Vue.Js
 * 👨‍💻 Some group projects are available at [my portfolio](https://lalomax.netlify.app/)
 * 📝 I regularly write articles on [xpanki](https://sites.google.com/view/xpankix/) 
 * 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1o2oOyqgRIoAvrSlCks5KXhiaLFbN4HXs/view) 
